@@ -1,6 +1,6 @@
 # Incorporating Measurement Error in Astronomical Object Classification
 
-This repository holds R code for reproducing results.
+This repository holds R code for reproducing the results in [Shy et al. (2021+)](https://arxiv.org/abs/2112.06831).
 
 ## Toy Example
 
